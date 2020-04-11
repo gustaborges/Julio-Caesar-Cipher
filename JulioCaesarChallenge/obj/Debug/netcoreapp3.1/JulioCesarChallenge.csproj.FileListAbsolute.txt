@@ -1,0 +1,13 @@
+C:\Users\gusta\Documents\GitHub\JulioCesarChallenge\JulioCesarChallenge\bin\Debug\netcoreapp3.1\JulioCesarChallenge.exe
+C:\Users\gusta\Documents\GitHub\JulioCesarChallenge\JulioCesarChallenge\bin\Debug\netcoreapp3.1\JulioCesarChallenge.deps.json
+C:\Users\gusta\Documents\GitHub\JulioCesarChallenge\JulioCesarChallenge\bin\Debug\netcoreapp3.1\JulioCesarChallenge.runtimeconfig.json
+C:\Users\gusta\Documents\GitHub\JulioCesarChallenge\JulioCesarChallenge\bin\Debug\netcoreapp3.1\JulioCesarChallenge.runtimeconfig.dev.json
+C:\Users\gusta\Documents\GitHub\JulioCesarChallenge\JulioCesarChallenge\bin\Debug\netcoreapp3.1\JulioCesarChallenge.dll
+C:\Users\gusta\Documents\GitHub\JulioCesarChallenge\JulioCesarChallenge\bin\Debug\netcoreapp3.1\JulioCesarChallenge.pdb
+C:\Users\gusta\Documents\GitHub\JulioCesarChallenge\JulioCesarChallenge\obj\Debug\netcoreapp3.1\JulioCesarChallenge.csprojAssemblyReference.cache
+C:\Users\gusta\Documents\GitHub\JulioCesarChallenge\JulioCesarChallenge\obj\Debug\netcoreapp3.1\JulioCesarChallenge.AssemblyInfoInputs.cache
+C:\Users\gusta\Documents\GitHub\JulioCesarChallenge\JulioCesarChallenge\obj\Debug\netcoreapp3.1\JulioCesarChallenge.AssemblyInfo.cs
+C:\Users\gusta\Documents\GitHub\JulioCesarChallenge\JulioCesarChallenge\obj\Debug\netcoreapp3.1\JulioCesarChallenge.dll
+C:\Users\gusta\Documents\GitHub\JulioCesarChallenge\JulioCesarChallenge\obj\Debug\netcoreapp3.1\JulioCesarChallenge.pdb
+C:\Users\gusta\Documents\GitHub\JulioCesarChallenge\JulioCesarChallenge\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\gusta\Documents\GitHub\JulioCesarChallenge\JulioCesarChallenge\obj\Debug\netcoreapp3.1\JulioCesarChallenge.csproj.CopyComplete
